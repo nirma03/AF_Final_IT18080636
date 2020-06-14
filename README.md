@@ -1,4 +1,4 @@
-# AF_IT18080636
+# AF_IT18080636 - simple MERN stack project - video gaming website
 
 Steps to run the application
 
